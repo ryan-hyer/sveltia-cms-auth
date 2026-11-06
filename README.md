@@ -121,6 +121,7 @@ Open `admin/config.yml` locally or remotely, and add your Worker URL from Step 1
 +  base_url: <YOUR_WORKER_URL>
 ```
 
+
 Commit the change. Once deployed, you can sign into Sveltia CMS remotely with GitHub or GitLab!
 
 ## FAQ
